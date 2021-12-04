@@ -4,7 +4,7 @@ With the help of the input data enter by the user, the model will update the inf
 ![](docs/images/image.png)
 
 ### After submitting the record, dataframe will be visible in the form of table.
-![](docs/images/image2.png)
+![](docs/images/image2.PNG)
 
 ### By clicking on "Show Record" button, it will open the record on the new tab, from there you can save the sheet in the form html, etc.
-![](docs/images/image3.png)
+![](docs/images/image3.PNG)
