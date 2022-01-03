@@ -27,4 +27,4 @@ For Frontend :
 
 ### By clicking on "Show Record" button, it will open the record on the new tab, from there you can save the sheet in the form html, etc.
 ![](docs/images/image3.PNG)
->>>>>>> manisha
+
